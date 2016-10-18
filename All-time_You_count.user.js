@@ -10,13 +10,13 @@
 // @grant       GM_listValues
 // @grant       GM_deleteValue
 // @run-at      document-end
-// @updateURL   https://github.com/WhatIsThisImNotGoodWithComputers/All-time-You-count/raw/master/All-time%20You%20count.user.js
-// @downloadURL https://github.com/WhatIsThisImNotGoodWithComputers/All-time-You-count/raw/master/All-time%20You%20count.user.js
+// @updateURL   https://github.com/WhatIsThisImNotGoodWithComputers/All-time-You-count/raw/master/All-time_You_count.user.js
+// @downloadURL https://github.com/WhatIsThisImNotGoodWithComputers/All-time-You-count/raw/master/All-time_You_count.user.js
 // ==/UserScript==
 
 /** JSLint excludes */
 /*jslint browser: true*/
-/*global document, console, GM_setValue, GM_getValue, GM_listValues, GM_deleteValue*/
+/*global document, console, GM_setValue, GM_getValue, GM_listValues, GM_deleteValue, cloneInto, unsafeWindow */
 
 /* WebStorm JSLint ticked:
  - uncapitalized constructors
