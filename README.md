@@ -15,5 +15,7 @@ If anything else is up, feel free to open an issue.
 # Result show
 First one is the script in combination with 4chan x, second one if the ugly inline extension.
 I got these in three (3) days, fucking genius.
+
 ![image](https://raw.githubusercontent.com/WhatIsThisImNotGoodWithComputers/All-time-You-count/master/img/4chanx.png)
+
 ![image](https://raw.githubusercontent.com/WhatIsThisImNotGoodWithComputers/All-time-You-count/master/img/inline.png)
