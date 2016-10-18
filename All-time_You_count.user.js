@@ -48,7 +48,6 @@ document.addEventListener('ThreadUpdate', function (e) {
     }
 
     setTimeout(function () {
-        //add to temp posts and the DOM element to allPostsOnPage
         evDetailClone.newPosts.forEach(function (post_board_nr) {
             var post_nr = post_board_nr.split('.')[1];
             var newPostDomElement = document.getElementById("pc" + post_nr);
@@ -67,7 +66,6 @@ document.addEventListener('4chanThreadUpdated', function (e) {
         var postsContainer = Array.prototype.slice.call(document.getElementById('t' + threadID).childNodes);
         var lastPosts = postsContainer.slice(Math.max(postsContainer.length - evDetail.count, 1)); //get the last n elements (where n is evDetail.count)
 
-        //add to temp posts and the DOM element to allPostsOnPage
         lastPosts.forEach(function (post_container) {
             processPostContainer(post_container);
         });
@@ -136,7 +134,6 @@ function init() {
         allTimeYouCount = 0;
     }
 
-    // build spans
     var span = document.createElement("SPAN");
     span.setAttribute("id", "yous");
     span.setAttribute("class", "yous brackets-wrap");
