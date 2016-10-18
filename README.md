@@ -1,9 +1,6 @@
 # All-time-You-count
-Show off how important you really are.  
-I really recommend you install 4chan x (and optionally use OneeChan with it).  
-Otherwise you might want to add some custom css.  
+I really recommend you install 4chan x (and optionally use OneeChan with it), otherwise you might want to add some custom css.  
 If someone wants to style it up for the inline extension, feel free to fork or submit something.  
-If anything else is up, feel free to open an issue.  
 
 # Install
 
