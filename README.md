@@ -4,7 +4,7 @@ If someone wants to style it up for the inline extension, feel free to fork or s
 
 # Install
 
-1. Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox,
+1. Install ~~[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)~~ [TamperMonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) for Firefox,
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Chrome, or
 [Violent monkey](https://addons.opera.com/en/extensions/details/violent-monkey/) for Opera.
 2. Install the [All-time-You-count userscript](https://github.com/WhatIsThisImNotGoodWithComputers/All-time-You-count/raw/master/All-time_You_count.user.js)
